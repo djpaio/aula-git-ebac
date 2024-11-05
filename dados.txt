@@ -4,8 +4,8 @@ Dados do aluno
 -Profissão: Analista de Testes
 -Cidade: Maringá
 -O que faz nas horas vaga: Academia e Curso
--Feedback sobre o curso Qualidade de Software: Excelente
--Feedback sobre a plataforma de estudo da EBAC: Excelente
+-Feedback sobre o curso Qualidade de Software: Excelente!
+-Feedback sobre a plataforma de estudo da EBAC: Excelente!
 
 Obrigado!!!
 
